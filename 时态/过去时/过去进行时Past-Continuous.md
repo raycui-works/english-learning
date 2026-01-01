@@ -40,3 +40,11 @@
 - 大意：我知道我刚才（那阵子）有点疯。
 - 语境：Monica 事后复盘/认错，承认自己情绪化。 ￼
 - 语法点：was acting 强调“那段时间的行为表现”，比 I acted crazy 更像“持续一阵子”。
+
+<br><br/>
+
+>可以用这套方法“秒判断是不是过去进行时”
+>
+>看到 was/were + 动词ing，再看它在对话里扮演哪一种功能：
+>	1.	真·进行（画面/背景）：while you were sleeping, we were doing it, he was acting like…
+>	2.	话术·缓冲（更礼貌/更试探）：I was wondering / I was thinking / I was hoping…
